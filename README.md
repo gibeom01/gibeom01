@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/b130b897-fd68-4690-a66e-9f12c97d5350" />
+
+![gibeom01's GitHub stats](https://vercel.app)
+
+<img src="https://shields.io">
+<img src="https://shields.io">
+
+[![GitHub Stats](https://vercel.app)](https://gibeom01.com)
+
+![GitHub Stats](https://vercel.app)
