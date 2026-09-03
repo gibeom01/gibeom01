@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/b130b897-fd68-4690-a66e-9f12c97d5350" />
 
-![gibeom01's GitHub stats](https://vercel.app)
+### learm -> 자격증 공부 정리 공간
 
-<img src="https://shields.io">
-<img src="https://shields.io">
+### study -> 실무, 공부 중 얻은 지식 정리 공간
 
-[![GitHub Stats](https://vercel.app)](https://gibeom01.com)
+### template_tip -> github 작성 시 사용할 템플릿 모음 공간
 
-![GitHub Stats](https://vercel.app)
+### daily_work_log -> 실무에서의 일일 일기 공간
